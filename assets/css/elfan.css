@@ -1,0 +1,37 @@
+/*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+/* FONT PATH
+ * -------------------------- */
+@font-face {
+    font-family: bookless;
+    font-style: normal;
+    font-weight: normal;
+    src: url('../fonts/bookless.ttf')format('truetype');;
+}
+
+.bo {
+  display: inline-block;
+  font: normal normal normal 14px/1 bookless;
+  font-size: inherit;
+  text-rendering: auto;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.bo-daftar:after{
+  content: "\0054";
+}
+
+.bo-english:after{
+  content: "\0047";
+}
+
+.bo-arab:after{
+  content: "\0054";
+}
+
+.bo-3x {
+  font-size: 3em;
+}
