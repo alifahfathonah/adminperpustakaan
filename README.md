@@ -1,5 +1,4 @@
 #Codeigniter Projects
-Contoh projects crud dan login dengan codeigniter
+PROJEK ADMIN PERPUSTAKAAN
 
-##video
-Video tutorial dapat dilihat di [Membuat Login Logout dengan Codeigniter](https://youtu.be/3miNsF2Whaw "Membuat Login Logout dengan Codeigniter")
+Pengembangan sistem Bookless
